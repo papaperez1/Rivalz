@@ -11,7 +11,7 @@ Connect twitter and claim social points.
 
 8 GB RAM, 4 cores (2.2 GHz), 50GB SSD, 1Mps internet speed
 
-### Run the clinet
+### Run the client
 
 ```
 sudo su -
@@ -45,7 +45,7 @@ screen -R node1
 rivalz run
 ```
 put your EVM wallet address that you connected in dashboard. No need seedphrase or private key.
-
+type ctrl+a+d from keyboard and close your VPS. It will run in background.
 Go to dashboard and check status
 
 ![image](https://github.com/user-attachments/assets/e962fcc4-3c99-4b3e-8b6a-e681124a8466)
