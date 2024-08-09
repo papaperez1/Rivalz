@@ -1,5 +1,6 @@
 # Rivalz incentivized client setup using VPS
-![image](https://github.com/user-attachments/assets/51a41cae-b1fc-4f7a-8e8e-991717d88dd9)
+![image](https://github.com/user-attachments/assets/f5fc321e-aa02-4ed6-b067-8886d26ea956)
+
 
 ### Login to Dashboard
 
@@ -46,7 +47,7 @@ rivalz run
 ```
 put your EVM wallet address that you connected in dashboard. No need seedphrase or private key.
 type ctrl+a+d from keyboard and close your VPS. It will run in background.
-Go to dashboard and check status
+Go to https://rivalz.ai/dashboard/node-validate and check status
 
 ![image](https://github.com/user-attachments/assets/e962fcc4-3c99-4b3e-8b6a-e681124a8466)
 
